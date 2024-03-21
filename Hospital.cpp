@@ -13,3 +13,4 @@ Hospital::Hospital(std::string newlocation, int newfloors)
 
 Hospital::Hospital(std::string newlocation, int newfloors, int newrooms)
 :location(newlocation),floors(newfloors),rooms(newrooms){}
+

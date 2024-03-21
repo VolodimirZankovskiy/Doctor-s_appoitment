@@ -10,5 +10,6 @@ int main() {
     Doctor B("Ivan","Komarovskiy",10);
     Patient C("Vova","Zankovskiy",12);
     B.getDoctor();
+
     return 0;
 }

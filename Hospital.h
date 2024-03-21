@@ -15,6 +15,7 @@ public:
     Hospital(string newlocation,int newfloors);
     Hospital(string newlocation,int newfloors, int newrooms);
     ~Hospital(){};
+
 };
 
 
